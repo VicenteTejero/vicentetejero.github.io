@@ -47,5 +47,82 @@
     "title": "About",
     "section": "Intern at Euroamerica S.A, Santiago, Chile",
     "text": "Intern at Euroamerica S.A, Santiago, Chile\nDecember 2023 — January 2024\n\nWorked at the money desk within the investment department.\nUpdated valuation models for the corporate bond portfolio.\nDeveloped an automated reporting system.\nGained insights into the financial industry’s workings and developed technical skills in data analysis and programming.\nApplied data science knowledge to real-world financial problems."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Ongoing projects",
+    "section": "",
+    "text": "Description: As part of my final thesis for my Civil Industrial Engineering degree and within the framework of the FONDECYT project “Drivers of Sustainable Finance”, this project aims to study the attention that decision-makers pay to ESG (Environmental, Social, and Governance) criteria when making investment decisions. The experiment is designed to analyze how rational inattention affects the incorporation of ESG factors in investment strategies, providing insights into the behavioral aspects of sustainable finance.\nCurrent Status: The project is currently in the experimental phase, where data is being collected through various methods, including eye-tracking technology to measure pupil dilation as an indicator of attention. Preliminary results are being analyzed to understand the patterns of attention allocation among different types of investors.\nTechnologies Used: The project utilizes data analytics tools, including R for statistical analysis and Python for data processing. Additionally, LaTeX and RTeX are employed for the precise and professional formatting of documents and reports. Eye-tracking hardware and software are also being employed to gather detailed metrics on investor attention.\n\n\n\nDescription: This project involves the creation and production of educational capsules that discuss ESG (Environmental, Social, and Governance) criteria and their regulations worldwide, as well as their evolution over time. The capsules are designed to be informative and accessible, utilizing video format supported by presentations in the background to enhance the learning experience.\nCurrent Status: The project is in the content development phase, where scripts and presentations are being created. Initial videos are being produced to pilot the format and gather feedback for improvement.\nTechnologies Used: The project employs video production tools. Additionally, the videos are designed to be distributed via platforms like YouTube and educational websites to reach a broader audience."
+  },
+  {
+    "objectID": "projects.html#rational-attention-in-sustainable-finance",
+    "href": "projects.html#rational-attention-in-sustainable-finance",
+    "title": "Ongoing projects",
+    "section": "",
+    "text": "Description: As part of my final thesis for my Civil Industrial Engineering degree and within the framework of the FONDECYT project “Drivers of Sustainable Finance”, this project aims to study the attention that decision-makers pay to ESG (Environmental, Social, and Governance) criteria when making investment decisions. The experiment is designed to analyze how rational inattention affects the incorporation of ESG factors in investment strategies, providing insights into the behavioral aspects of sustainable finance.\nCurrent Status: The project is currently in the experimental phase, where data is being collected through various methods, including eye-tracking technology to measure pupil dilation as an indicator of attention. Preliminary results are being analyzed to understand the patterns of attention allocation among different types of investors.\nTechnologies Used: The project utilizes data analytics tools, including R for statistical analysis and Python for data processing. Additionally, LaTeX and RTeX are employed for the precise and professional formatting of documents and reports. Eye-tracking hardware and software are also being employed to gather detailed metrics on investor attention."
+  },
+  {
+    "objectID": "projects.html#esg-educational-capsules",
+    "href": "projects.html#esg-educational-capsules",
+    "title": "Ongoing projects",
+    "section": "",
+    "text": "Description: This project involves the creation and production of educational capsules that discuss ESG (Environmental, Social, and Governance) criteria and their regulations worldwide, as well as their evolution over time. The capsules are designed to be informative and accessible, utilizing video format supported by presentations in the background to enhance the learning experience.\nCurrent Status: The project is in the content development phase, where scripts and presentations are being created. Initial videos are being produced to pilot the format and gather feedback for improvement.\nTechnologies Used: The project employs video production tools. Additionally, the videos are designed to be distributed via platforms like YouTube and educational websites to reach a broader audience."
+  },
+  {
+    "objectID": "sobre_mi.html",
+    "href": "sobre_mi.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Actualmente estoy en mi sexto año de estudios de Ingeniería Civil Industrial en la Universidad de los Andes. Tengo una gran pasión por el análisis de datos, la tecnología y las finanzas. Me encanta aprender sobre nuevas tecnologías y disfruto aplicando mis habilidades para resolver desafíos del mundo real."
+  },
+  {
+    "objectID": "sobre_mi.html#practicante-en-euroamerica-s.a-santiago-chile",
+    "href": "sobre_mi.html#practicante-en-euroamerica-s.a-santiago-chile",
+    "title": "Sobre mí",
+    "section": "Practicante en Euroamerica S.A, Santiago, Chile",
+    "text": "Practicante en Euroamerica S.A, Santiago, Chile\nDiciembre 2023 — Enero 2024\n\nTrabajé en la mesa de dinero dentro del departamento de inversiones.\nActualicé modelos de valoración para la cartera de bonos corporativos.\nDesarrollé un sistema automatizado de informes.\nAdquirí conocimientos sobre el funcionamiento de la industria financiera y desarrollé habilidades técnicas en análisis de datos y programación.\nApliqué conocimientos de ciencia de datos a problemas financieros del mundo real."
+  },
+  {
+    "objectID": "sobre_mi.html#practicante-en-millenium-s.a-santiago-chile",
+    "href": "sobre_mi.html#practicante-en-millenium-s.a-santiago-chile",
+    "title": "Sobre mí",
+    "section": "Practicante en Millenium S.A, Santiago, Chile",
+    "text": "Practicante en Millenium S.A, Santiago, Chile\nDiciembre 2021 — Febrero 2022\n\nRealicé tareas administrativas y evaluación de nuevos equipos de producción."
+  },
+  {
+    "objectID": "sobre_mi.html#ayudante-de-modelos-estocásticos-en-la-universidad-de-los-andes-santiago-chile",
+    "href": "sobre_mi.html#ayudante-de-modelos-estocásticos-en-la-universidad-de-los-andes-santiago-chile",
+    "title": "Sobre mí",
+    "section": "Ayudante de Modelos Estocásticos en la Universidad de los Andes, Santiago, Chile",
+    "text": "Ayudante de Modelos Estocásticos en la Universidad de los Andes, Santiago, Chile\nJulio 2022 — Diciembre 2022\n\nAsistí en el curso de Modelos Estocásticos."
+  },
+  {
+    "objectID": "sobre_mi.html#instructor-de-introducción-a-la-programación-en-la-universidad-de-los-andes-santiago-chile",
+    "href": "sobre_mi.html#instructor-de-introducción-a-la-programación-en-la-universidad-de-los-andes-santiago-chile",
+    "title": "Sobre mí",
+    "section": "Instructor de Introducción a la Programación en la Universidad de los Andes, Santiago, Chile",
+    "text": "Instructor de Introducción a la Programación en la Universidad de los Andes, Santiago, Chile\nMarzo 2022 — Junio 2022\n\nGuié a nuevos estudiantes en el curso de Introducción a la Programación."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out to me through the following options:"
+  },
+  {
+    "objectID": "contact.html#send-me-an-email",
+    "href": "contact.html#send-me-an-email",
+    "title": "Contact",
+    "section": "Send Me an Email",
+    "text": "Send Me an Email\nYou can send me an email at vicente@tejero.cl."
+  },
+  {
+    "objectID": "contact.html#schedule-a-meeting",
+    "href": "contact.html#schedule-a-meeting",
+    "title": "Contact",
+    "section": "Schedule a Meeting",
+    "text": "Schedule a Meeting\nClick the link below to schedule a meeting with me via Google Calendar:\nSchedule a Meeting"
   }
 ]

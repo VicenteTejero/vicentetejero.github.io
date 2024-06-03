@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+Feel free to reach out to me through the following options:
+
+## Send Me an Email
+
+You can send me an email at [vicente\@tejero.cl](mailto:vicente@tejero.cl).
+
+## Schedule a Meeting
+
+Click the link below to schedule a meeting with me via Google Calendar:
+
+[Schedule a Meeting](https://calendar.google.com/calendar/u/0/r/eventedit?text=Meeting+with+Julio+Tejero&dates=20240601T100000Z/20240601T110000Z&details=Please+include+any+specific+details+about+the+meeting.&location=&sf=true&output=xml)
