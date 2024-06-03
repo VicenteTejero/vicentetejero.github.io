@@ -187,5 +187,12 @@
     "title": "About me",
     "section": "Craighouse School, Santiago, Chile",
     "text": "Craighouse School, Santiago, Chile\nMarch 2004 — December 2018\n\nGraduated from high school with an IB (International Baccalaureate) diploma."
+  },
+  {
+    "objectID": "projects.html#esg-dashboard",
+    "href": "projects.html#esg-dashboard",
+    "title": "Ongoing projects",
+    "section": "",
+    "text": "Description: The CMF (Comisión para el Mercado Financiero) has published a change in regulation NRC 461, which now includes ESG criteria in annual reports. However, the databases available on the CMF’s website for ESG criteria are difficult to read and interpret. To address this, I am developing a dashboard that presents these data in a more user-friendly and intuitive manner.\nCurrent Status: I am currently reorganizing the database to begin creating the dashboard. The dashboard will be built using R and will be published on an online platform.\nTechnologies Used: This project utilizes R for data manipulation and dashboard creation. The dashboard will be published on an online platform to make the ESG data more accessible and understandable to users."
   }
 ]
