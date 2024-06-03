@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am currently in my sixth year of studying Civil Industrial Engineering at Universidad de los Andes. I have a deep passion for data analytics, technology, and finance. I thrive on learning about new technologies and enjoy applying my skills to tackle real-world challenges."
+    "text": "I am currently in my sixth year of studying Civil Industrial Engineering at Universidad de los Andes. I have a deep passion for data analytics, technology, and finance. I thrive on learning about new technologies and enjoy applying my skills to solve real-world challenges."
   },
   {
     "objectID": "about.html#intern-ar-euroamerica-s.a-santiago-chile",
@@ -53,7 +53,7 @@
     "href": "projects.html",
     "title": "Ongoing projects",
     "section": "",
-    "text": "Description: As part of my final thesis for my Civil Industrial Engineering degree and within the framework of the FONDECYT project “Drivers of Sustainable Finance”, this project aims to study the attention that decision-makers pay to ESG (Environmental, Social, and Governance) criteria when making investment decisions. The experiment is designed to analyze how rational inattention affects the incorporation of ESG factors in investment strategies, providing insights into the behavioral aspects of sustainable finance.\nCurrent Status: The project is currently in the experimental phase, where data is being collected through various methods, including eye-tracking technology to measure pupil dilation as an indicator of attention. Preliminary results are being analyzed to understand the patterns of attention allocation among different types of investors.\nTechnologies Used: The project utilizes data analytics tools, including R for statistical analysis and Python for data processing. Additionally, LaTeX and RTeX are employed for the precise and professional formatting of documents and reports. Eye-tracking hardware and software are also being employed to gather detailed metrics on investor attention.\n\n\n\nDescription: This project involves the creation and production of educational capsules that discuss ESG (Environmental, Social, and Governance) criteria and their regulations worldwide, as well as their evolution over time. The capsules are designed to be informative and accessible, utilizing video format supported by presentations in the background to enhance the learning experience.\nCurrent Status: The project is in the content development phase, where scripts and presentations are being created. Initial videos are being produced to pilot the format and gather feedback for improvement.\nTechnologies Used: The project employs video production tools. Additionally, the videos are designed to be distributed via platforms like YouTube and educational websites to reach a broader audience."
+    "text": "Description: As part of my final thesis for my Civil Industrial Engineering degree and within the framework of the FONDECYT project “Drivers of Sustainable Finance”, this project aims to study the attention that decision-makers pay to ESG (Environmental, Social, and Governance) criteria when making investment decisions. The experiment is designed to analyze how rational inattention affects the incorporation of ESG factors in investment strategies, providing insights into the behavioral aspects of sustainable finance.\nCurrent Status: The project is currently in the experimental phase, where data is being collected through various methods, including eye-tracking technology to measure pupil dilation as an indicator of attention. Preliminary results are being analyzed to understand the patterns of attention allocation among different types of investors.\nTechnologies Used: The project utilizes data analytics tools, including R for statistical analysis and Python for data processing. Additionally, LaTeX and RTeX are employed for the precise and professional formatting of documents and reports. Eye-tracking hardware and software are also being employed to gather detailed metrics on investor attention.\n\n\n\nDescription: This project involves the creation and production of educational capsules that discuss ESG (Environmental, Social, and Governance) criteria and their regulations worldwide, as well as their evolution over time. The capsules are designed to be informative and accessible, utilizing video format supported by presentations in the background to enhance the learning experience.\nCurrent Status: The project is in the content development phase, where scripts and presentations are being created. Initial videos are being produced to pilot the format and gather feedback for improvement.\nTechnologies Used: The project employs video production tools. Additionally, the videos are designed to be distributed via platforms like YouTube and educational websites to reach a broader audience.\n\n\n\nDescription: The CMF (Comisión para el Mercado Financiero) has published a change in regulation NRC 461, which now includes ESG criteria in annual reports. However, the databases available on the CMF’s website for ESG criteria are difficult to read and interpret. To address this, I am developing a dashboard that presents these data in a more user-friendly and intuitive manner.\nCurrent Status: I am currently reorganizing the database to begin creating the dashboard. The dashboard will be built using R and will be published on an online platform.\nTechnologies Used: This project utilizes R for data manipulation and dashboard creation. The dashboard will be published on an online platform to make the ESG data more accessible and understandable to users."
   },
   {
     "objectID": "projects.html#rational-attention-in-sustainable-finance",
@@ -159,5 +159,33 @@
     "title": "Welcome",
     "section": "Get in Touch",
     "text": "Get in Touch\nFeel free to reach out to me via email or connect with me on LinkedIn."
+  },
+  {
+    "objectID": "projects.html#project-3-esg-dashboard-for-cmf-data",
+    "href": "projects.html#project-3-esg-dashboard-for-cmf-data",
+    "title": "Ongoing projects",
+    "section": "",
+    "text": "Description: The CMF (Comisión para el Mercado Financiero) has published a change in regulation NRC 461, which now includes ESG criteria in annual reports. However, the databases available on the CMF’s website for ESG criteria are difficult to read and interpret. To address this, I am developing a dashboard that presents these data in a more user-friendly and intuitive manner.\nCurrent Status: I am currently reorganizing the database to begin creating the dashboard. The dashboard will be built using R and will be published on an online platform.\nTechnologies Used: This project utilizes R for data manipulation and dashboard creation. The dashboard will be published on an online platform to make the ESG data more accessible and understandable to users."
+  },
+  {
+    "objectID": "about.html#bachelor-of-engineering-universidad-de-los-andes-santiago-chile",
+    "href": "about.html#bachelor-of-engineering-universidad-de-los-andes-santiago-chile",
+    "title": "About",
+    "section": "Bachelor of Engineering, Universidad de Los Andes, Santiago, Chile",
+    "text": "Bachelor of Engineering, Universidad de Los Andes, Santiago, Chile\nMarch 2019 — Present\n\nCurrently studying Civil Engineering with a specialization in Data Analytics."
+  },
+  {
+    "objectID": "about.html#international-baccalaureate-diploma-santiago-chile",
+    "href": "about.html#international-baccalaureate-diploma-santiago-chile",
+    "title": "About",
+    "section": "International Baccalaureate Diploma, Santiago, Chile",
+    "text": "International Baccalaureate Diploma, Santiago, Chile\nJune 2016 — May 2018\n\nCompleted the International Baccalaureate Diploma with courses in Business Management, English, Mathematics, among others."
+  },
+  {
+    "objectID": "about.html#craighouse-school-santiago-chile",
+    "href": "about.html#craighouse-school-santiago-chile",
+    "title": "About",
+    "section": "Craighouse School, Santiago, Chile",
+    "text": "Craighouse School, Santiago, Chile\nMarch 2004 — December 2018\n\nGraduated from high school with an IB (International Baccalaureate) diploma."
   }
 ]

@@ -18,7 +18,7 @@ about:
 
 # About me
 
-I am currently in my sixth year of studying Civil Industrial Engineering at [Universidad de los Andes](https://www.uandes.cl/). I have a deep passion for data analytics, technology, and finance. I thrive on learning about new technologies and enjoy applying my skills to tackle real-world challenges.
+I am currently in my sixth year of studying Civil Industrial Engineering at [Universidad de los Andes](https://www.uandes.cl/). I have a deep passion for data analytics, technology, and finance. I thrive on learning about new technologies and enjoy applying my skills to solve real-world challenges.
 
 # Experience
 
@@ -49,3 +49,25 @@ I am currently in my sixth year of studying Civil Industrial Engineering at [Uni
 *March 2022 — June 2022*
 
 -   Guided new students in the Introduction to Programming course.
+
+# Studies
+
+## Bachelor of Engineering, Universidad de Los Andes, Santiago, Chile
+*March 2019 — Present*
+
+- Currently studying Civil Engineering with a specialization in Data Analytics.
+
+## International Baccalaureate Diploma, Santiago, Chile
+*June 2016 — May 2018*
+
+- Completed the International Baccalaureate Diploma with courses in Business Management, English, Mathematics, among others.
+
+## Craighouse School, Santiago, Chile
+*March 2004 — December 2018*
+
+- Graduated from high school with an IB (International Baccalaureate) diploma.
+
+
+# Languages
+- Native Spanish
+- Advanced English
