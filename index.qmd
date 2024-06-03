@@ -10,9 +10,9 @@ title: "Welcome"
 
 Hi, I'm Vicente Tejero Caballero, a Civil Industrial Engineering student with a passion for data analytics, technology, and finance. Welcome to my personal website where I showcase my projects, share my professional journey, and provide insights into my areas of interest.
 
-## [Featured Projects](https://vicentetejero.github.io/projects.html)
+## Featured Projects
 
-### Implementation of Rational Inattention Experiment
+### Implementation of Rational Attention Experiment
 
 A study on how decision-makers consider ESG criteria when making investment decisions. Part of my final thesis and the FONDECYT project "Drivers of Sustainable Finance".
 
