@@ -16,6 +16,14 @@
 
 **Technologies Used**: The project employs video production tools. Additionally, the videos are designed to be distributed via platforms like YouTube and educational websites to reach a broader audience.
 
+## Project 3: ESG Dashboard for CMF Data
+
+**Description**: The CMF (Comisión para el Mercado Financiero) has published a change in regulation NRC 461, which now includes ESG criteria in annual reports. However, the databases available on the CMF's website for ESG criteria are difficult to read and interpret. To address this, I am developing a dashboard that presents these data in a more user-friendly and intuitive manner.
+
+**Current Status**: I am currently reorganizing the database to begin creating the dashboard. The dashboard will be built using R and will be published on an online platform.
+
+**Technologies Used**: This project utilizes R for data manipulation and dashboard creation. The dashboard will be published on an online platform to make the ESG data more accessible and understandable to users.
+
 # Past projects
 
 ## 

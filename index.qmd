@@ -1,12 +1,10 @@
 ---
 title: "Welcome"
+about:
+  template: jolla
+  image: images/profile.png
 ---
 
-::: {style="background-image: url('images/home.png'); background-size: cover; height: 200px; display: flex; align-items: center; "}
-<h1 style="color: white; text-shadow: 2px 2px 4px #000;">
-
-</h1>
-:::
 
 Hi, I'm Vicente Tejero Caballero, a Civil Industrial Engineering student with a passion for data analytics, technology, and finance. Welcome to my personal website where I showcase my projects, share my professional journey, and provide insights into my areas of interest.
 

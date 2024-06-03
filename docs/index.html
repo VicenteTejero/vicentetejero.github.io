@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -118,7 +117,6 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
-   
   <ul>
   <li><a href="#featured-projects" id="toc-featured-projects" class="nav-link active" data-scroll-target="#featured-projects">Featured Projects</a>
   <ul class="collapse">
@@ -132,52 +130,38 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla content">
+  <img src="images/profile.png" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Welcome</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
+</header><main class="content" id="quarto-document-content">
 
-
-</header>
-
-
-<div style="background-image: url('images/home.png'); background-size: cover; height: 200px; display: flex; align-items: center; ">
-<h1 style="color: white; text-shadow: 2px 2px 4px #000;">
-</h1>
-</div>
 <p>Hi, I’m Vicente Tejero Caballero, a Civil Industrial Engineering student with a passion for data analytics, technology, and finance. Welcome to my personal website where I showcase my projects, share my professional journey, and provide insights into my areas of interest.</p>
 <section id="featured-projects" class="level2">
-<h2 class="anchored" data-anchor-id="featured-projects">Featured Projects</h2>
+<h2 data-anchor-id="featured-projects">Featured Projects</h2>
 <section id="implementation-of-rational-attention-experiment" class="level3">
-<h3 class="anchored" data-anchor-id="implementation-of-rational-attention-experiment">Implementation of Rational Attention Experiment</h3>
+<h3 data-anchor-id="implementation-of-rational-attention-experiment">Implementation of Rational Attention Experiment</h3>
 <p>A study on how decision-makers consider ESG criteria when making investment decisions. Part of my final thesis and the FONDECYT project “Drivers of Sustainable Finance”.</p>
 </section>
 <section id="esg-educational-capsules" class="level3">
-<h3 class="anchored" data-anchor-id="esg-educational-capsules">ESG Educational Capsules</h3>
+<h3 data-anchor-id="esg-educational-capsules">ESG Educational Capsules</h3>
 <p>Creating educational videos about ESG criteria, their regulations, and evolution worldwide.</p>
 </section>
 </section>
 <section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
+<h2 data-anchor-id="education">Education</h2>
 <ul>
 <li><strong>Civil Industrial Engineering</strong>, Universidad de los Andes, Santiago, Chile</li>
 <li><strong>International Baccalaureate Diploma</strong>, Craighouse School, Santiago, Chile</li>
 </ul>
 </section>
 <section id="skills-and-competencies" class="level2">
-<h2 class="anchored" data-anchor-id="skills-and-competencies">Skills and Competencies</h2>
+<h2 data-anchor-id="skills-and-competencies">Skills and Competencies</h2>
 <ul>
 <li>Data Analytics</li>
 <li>Programming (Python, R)</li>
@@ -186,13 +170,14 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="get-in-touch" class="level2">
-<h2 class="anchored" data-anchor-id="get-in-touch">Get in Touch</h2>
+<h2 data-anchor-id="get-in-touch">Get in Touch</h2>
 <p>Feel free to reach out to me via <a href="mailto:vicente@tejero.cl">email</a> or connect with me on <a href="https://www.linkedin.com/in/vicente-tejero-144930217/">LinkedIn</a>.</p>
 
 
 </section>
-
-</main> <!-- /main -->
+</main>  
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -213,13 +198,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
