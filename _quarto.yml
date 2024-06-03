@@ -21,5 +21,6 @@ format:
     theme: simplex
     css: styles.css
     toc: true
+    include-after-body: footer.html
 
 editor: visual
