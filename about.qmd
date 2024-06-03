@@ -1,5 +1,4 @@
 ---
-title: "About"
 about:
   template: solana
   id: hero-heading
