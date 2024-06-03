@@ -30,7 +30,7 @@ Data Analytics Programming (Python, R) Team Leadership Project Management
 
 Feel free to reach out to me via [email](mailto:vicente@tejero.cl), connect with me on [LinkedIn](https://www.linkedin.com/in/vicente-tejero-144930217/) or schedule an appointment below.
 
-``` html
+```{=html}
 <!-- Google Calendar Appointment Scheduling begin -->
 <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1MoM7-GHLNssGJjC1MQJ4T3TAhG_PxZrofD0zDbrCBe0dkN0NeGWeIhw4LvXbveSmCdj-BWpzr?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->

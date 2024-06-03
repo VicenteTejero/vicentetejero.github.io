@@ -10,6 +10,10 @@ You can send me an email at [vicente\@tejero.cl](mailto:vicente@tejero.cl).
 
 ## Schedule a Meeting
 
-Click the link below to schedule a meeting with me via Google Calendar:
+Schedule a meeting with me via Google Calendar below:
 
-[Schedule a Meeting](https://calendar.google.com/calendar/u/0/r/eventedit?text=Meeting+with+Julio+Tejero&dates=20240601T100000Z/20240601T110000Z&details=Please+include+any+specific+details+about+the+meeting.&location=&sf=true&output=xml)
+```{=html}
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1MoM7-GHLNssGJjC1MQJ4T3TAhG_PxZrofD0zDbrCBe0dkN0NeGWeIhw4LvXbveSmCdj-BWpzr?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
+```
