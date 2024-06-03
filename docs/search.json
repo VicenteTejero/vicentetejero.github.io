@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nWelcome to My Portfolio\n",
+    "title": "Welcome",
     "section": "",
-    "text": "Welcome to My Portfolio"
+    "text": "Hi, I’m Vicente Tejero Caballero, a Civil Industrial Engineering student with a passion for data analytics, technology, and finance. Welcome to my personal website where I showcase my projects, share my professional journey, and provide insights into my areas of interest."
   },
   {
     "objectID": "about.html",
@@ -124,5 +124,40 @@
     "title": "Contact",
     "section": "Schedule a Meeting",
     "text": "Schedule a Meeting\nClick the link below to schedule a meeting with me via Google Calendar:\nSchedule a Meeting"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Welcome",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nImplementation of Rational Inattention Experiment\nA study on how decision-makers consider ESG criteria when making investment decisions. Part of my final thesis and the FONDECYT project “Drivers of Sustainable Finance”.\n\n\nESG Educational Capsules\nCreating educational videos about ESG criteria, their regulations, and evolution worldwide."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Welcome",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nEuroamerica S.A.\n\nWorked at the money desk within the investment department.\nDeveloped an automated reporting system and updated valuation models for the corporate bond portfolio.\n\n\n\nMillenium S.A.\n\nPerformed administrative tasks and evaluation of new production equipment."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Welcome",
+    "section": "Education",
+    "text": "Education\n\nCivil Industrial Engineering, Universidad de los Andes, Santiago, Chile\nInternational Baccalaureate Diploma, Craighouse School, Santiago, Chile"
+  },
+  {
+    "objectID": "index.html#skills-and-competencies",
+    "href": "index.html#skills-and-competencies",
+    "title": "Welcome",
+    "section": "Skills and Competencies",
+    "text": "Skills and Competencies\n\nData Analytics\nProgramming (Python, R)\nTeam Leadership\nProject Management"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Welcome",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nFeel free to reach out to me via email or connect with me on LinkedIn."
   }
 ]

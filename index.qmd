@@ -1,1 +1,37 @@
-<div style="background-image: url('images/home.png'); background-size: cover; height: 200px; display: flex; align-items: center;">
+---
+title: "Welcome"
+---
+
+::: {style="background-image: url('images/home.png'); background-size: cover; height: 200px; display: flex; align-items: center; "}
+<h1 style="color: white; text-shadow: 2px 2px 4px #000;">
+
+</h1>
+:::
+
+Hi, I'm Vicente Tejero Caballero, a Civil Industrial Engineering student with a passion for data analytics, technology, and finance. Welcome to my personal website where I showcase my projects, share my professional journey, and provide insights into my areas of interest.
+
+## [Featured Projects](https://vicentetejero.github.io/projects.html)
+
+### Implementation of Rational Inattention Experiment
+
+A study on how decision-makers consider ESG criteria when making investment decisions. Part of my final thesis and the FONDECYT project "Drivers of Sustainable Finance".
+
+### ESG Educational Capsules
+
+Creating educational videos about ESG criteria, their regulations, and evolution worldwide.
+
+## Education
+
+-   **Civil Industrial Engineering**, Universidad de los Andes, Santiago, Chile
+-   **International Baccalaureate Diploma**, Craighouse School, Santiago, Chile
+
+## Skills and Competencies
+
+-   Data Analytics
+-   Programming (Python, R)
+-   Team Leadership
+-   Project Management
+
+## Get in Touch
+
+Feel free to reach out to me via [email](mailto:vicente@tejero.cl) or connect with me on [LinkedIn](https://www.linkedin.com/in/vicente-tejero-144930217/).

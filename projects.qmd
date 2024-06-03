@@ -1,3 +1,21 @@
----
-title: "projects"
----
+# Ongoing projects
+
+## Rational Attention in Sustainable Finance
+
+**Description**: As part of my final thesis for my Civil Industrial Engineering degree and within the framework of the FONDECYT project "[Drivers of Sustainable Finance](https://sebacea.github.io/drivers/)", this project aims to study the attention that decision-makers pay to ESG (Environmental, Social, and Governance) criteria when making investment decisions. The experiment is designed to analyze how rational inattention affects the incorporation of ESG factors in investment strategies, providing insights into the behavioral aspects of sustainable finance.
+
+**Current Status**: The project is currently in the experimental phase, where data is being collected through various methods, including eye-tracking technology to measure pupil dilation as an indicator of attention. Preliminary results are being analyzed to understand the patterns of attention allocation among different types of investors.
+
+**Technologies Used**: The project utilizes data analytics tools, including R for statistical analysis and Python for data processing. Additionally, LaTeX and RTeX are employed for the precise and professional formatting of documents and reports. Eye-tracking hardware and software are also being employed to gather detailed metrics on investor attention.
+
+## ESG Educational Capsules
+
+**Description**: This project involves the creation and production of educational capsules that discuss ESG (Environmental, Social, and Governance) criteria and their regulations worldwide, as well as their evolution over time. The capsules are designed to be informative and accessible, utilizing video format supported by presentations in the background to enhance the learning experience.
+
+**Current Status**: The project is in the content development phase, where scripts and presentations are being created. Initial videos are being produced to pilot the format and gather feedback for improvement.
+
+**Technologies Used**: The project employs video production tools. Additionally, the videos are designed to be distributed via platforms like YouTube and educational websites to reach a broader audience.
+
+# Past projects
+
+## 
