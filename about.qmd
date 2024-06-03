@@ -1,9 +1,48 @@
 ---
 title: "About"
+about:
+  template: solana
+  id: hero-heading
+  image: images/profile.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/vicentetejero
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/vicentetejero
 ---
 
-About this site
+#### About me
 
-```{r}
-1 + 1
-```
+I am currently in my sixth year of studying Civil Industrial Engineering at [Universidad de los Andes](https://www.uandes.cl/). I have a deep passion for data analytics, technology, and finance. I thrive on learning about new technologies and enjoy applying my skills to tackle real-world challenges.
+
+#### Laboral Experience
+
+#### Intern ar Euroamerica S.A, Santiago, Chile
+*December 2023 — January 2024*
+
+- Worked at the money desk within the investment department.
+- Updated valuation models for the corporate bond portfolio.
+- Developed an automated reporting system.
+- Gained insights into the financial industry's workings and developed technical skills in data analysis and programming.
+- Applied data science knowledge to real-world financial problems.
+
+
+##### Intern at Millenium S.A, Santiago, Chile
+*December 2021 — February 2022*
+
+- Performed administrative tasks and evaluation of new production equipment.
+
+##### Teaching Assistant for Stochastic Models at Universidad de Los Andes, Santiago, Chile
+*July 2022 — December 2022*
+
+- Assisted in the Stochastic Models course.
+
+##### Instructor for Introduction to Programming at Universidad de Los Andes, Santiago, Chile
+*March 2022 — June 2022*
+
+- Guided new students in the Introduction to Programming course.
