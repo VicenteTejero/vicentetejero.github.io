@@ -8,7 +8,7 @@ about:
 
 ::: {.column-margin}
 ```{=html}
-<div style="float: right; width: 300px; margin-left: 20px;">
+<div style="width: 400px;">
   <a class="twitter-timeline" href="https://twitter.com/VicenteTejeroC?ref_src=twsrc%5Etfw">Tweets by VicenteTejeroC</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
