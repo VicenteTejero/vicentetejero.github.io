@@ -4,17 +4,19 @@ about:
   template: jolla
   image: images/profile.png
   image-shape: rectangle
-format: html
 ---
 
-::: {.column-margin}
-<div style="position: fixed; top: 20px; right: 20px; width: 400px;">
-  <a class="twitter-timeline" href="https://twitter.com/VicenteTejeroC?ref_src=twsrc%5Etfw">Tweets by VicenteTejeroC</a> 
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+::: column-margin
+```{=html}
+<div style="width: 400px;">
+  <a class="twitter-timeline" href="https://twitter.com/VicenteTejeroC?ref_src=twsrc%5Etfw">Tweets by VicenteTejeroC</a>      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+```
 :::
 
 Hi, I'm Vicente Tejero Caballero, a Civil Industrial Engineering student with a passion for data analytics, technology, and finance. Welcome to my personal website where I showcase my projects, share my professional journey, and provide insights into my areas of interest.
+:::
 
 ## Featured Projects
 
