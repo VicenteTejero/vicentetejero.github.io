@@ -36,7 +36,8 @@ Feel free to reach out to me via [email](mailto:vicente@tejero.cl), connect with
 <!-- end Google Calendar Appointment Scheduling -->
 ```
 
-
+::: {.column-margin}
 ```{=html}
 <a class="twitter-timeline" href="https://twitter.com/VicenteTejeroC?ref_src=twsrc%5Etfw">Tweets by VicenteTejeroC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
+:::
