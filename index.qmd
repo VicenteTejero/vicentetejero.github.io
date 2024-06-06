@@ -35,3 +35,8 @@ Feel free to reach out to me via [email](mailto:vicente@tejero.cl), connect with
 <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1MoM7-GHLNssGJjC1MQJ4T3TAhG_PxZrofD0zDbrCBe0dkN0NeGWeIhw4LvXbveSmCdj-BWpzr?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
 ```
+
+
+```{=html}
+<a class="twitter-timeline" href="https://twitter.com/VicenteTejeroC?ref_src=twsrc%5Etfw">Tweets by VicenteTejeroC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
