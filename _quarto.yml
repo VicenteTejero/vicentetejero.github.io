@@ -14,6 +14,7 @@ website:
         text: Projects
       - href: contact.qmd
         text: Contact
+  google-analytics: "G-37FJ55XMHN"
         
 
 format:
